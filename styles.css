@@ -148,5 +148,5 @@ tr.data td {
 
 tr.data td:last-of-type {
     padding-right: 0.5rem;
-
+background: linear-gradient(#5e5e5e 85%)
 }
